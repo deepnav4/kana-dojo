@@ -965,7 +965,9 @@
     "mainColor": "oklch(65.0% 0.170 25.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.055 260.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "23f3001526",
+    "completedPR": 10034
   },
   {
     "id": "noh-mask",
